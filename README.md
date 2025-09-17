@@ -34,13 +34,6 @@
 - ☁️ Integrating Firebase for backend services and real-time data
 - 📚 Strengthening my foundation in Data Structures and Algorithms
 
-## GitHub Stats
-![Vineet's GitHub stats](https://github-readme-stats.vercel.app/api?username=cerebralstoic&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cerebralstoic&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=cerebralstoic&theme=radical)
-
 ## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cerebralstoic)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vineet.rawat.ddun62019@gmail.com)
