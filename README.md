@@ -1,5 +1,9 @@
 # Hi there! 👋 I'm Vineet Rawat
 
+<!-- Gradient Divider -->
+<img src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png" width="100%" />
+
+
 ## About Me
 - 🎓 B.Tech Student (Batch 2027)
 - 💻 Passionate about building mobile and web applications
@@ -27,6 +31,12 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-00576A?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-Framework-3776AB)
 
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cerebralstoic&theme=radical" height="165"/>
+</p>
+
 
 ## What I'm Working On
 - 🔭 Building cross-platform mobile applications with Flutter
@@ -37,6 +47,15 @@
 ## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cerebralstoic)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vineet.rawat.ddun62019@gmail.com)
+
+##  Additional Skills
+- Git & GitHub version control
+- REST API integration
+- Firebase backend services
+- Secure coding fundamentals
+- Cyber security basics (OWASP, Metasploit)
+- Data Structures & Algorithms
+- Linux & Bash usage
 
 ## Fun Facts
 - 🎯 I enjoy solving coding challenges and participating in hackathons
