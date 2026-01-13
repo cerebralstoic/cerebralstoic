@@ -34,7 +34,8 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cerebralstoic&theme=radical" height="165"/>
+  <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=cerebralstoic&theme=radical" height="165"/>-->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cerebralstoic&theme=radical"/>
 </p>
 
 
