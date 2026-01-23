@@ -38,10 +38,17 @@ A macOS-style interactive developer portfolio showcasing my projects, skills, an
 ![Metasploit](https://img.shields.io/badge/Metasploit-Framework-3776AB?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 ## GitHub Stats
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cerebralstoic&theme=radical"/>
+</p>
 
 <p align="center">
-  <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=cerebralstoic&theme=radical" height="165"/>-->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cerebralstoic&theme=radical"/>
+  <img
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=cerebralstoic&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
+    width="600"
+    height="230"
+  />
 </p>
 
 
