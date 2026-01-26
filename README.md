@@ -45,10 +45,15 @@ A macOS-style interactive developer portfolio showcasing my projects, skills, an
 
 <p align="center">
   <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=cerebralstoic&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
-    width="600"
-    height="230"
+    src="https://github-readme-stats-api-omega.vercel.app/api/stats?username=cerebralstoic&style=insight&theme=radical&include_all_commits=false"
+    width="350"
+    height="150"
   />
+  <img 
+    src="https://github-readme-stats-api-omega.vercel.app/api/stats?username=cerebralstoic&style=top-languages&theme=radical"
+    width="350"
+    height="230"
+    />
 </p>
 
 
