@@ -1,21 +1,16 @@
 # Hi there! 👋 I'm Vineet Rawat
+🔗 **Portfolio Website:** [https://vineetrawat.me](https://vineetrawat.me)
 
 <!-- Gradient Divider -->
 <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png" width="100%" />
-
-## 🌐 Portfolio
-🔗 **Website:** [https://vineetrawat.me](https://vineetrawat.me)
-<img src="https://komarev.com/ghpvc/?username=cerebralstoic&color=blue&style=flat" width="0" height="0" />
-A macOS-style interactive developer portfolio showcasing my projects, skills, and experiments in web, mobile, and system development.
-
 
 
 ## About Me
 -  B.Tech Student (Batch 2027)
 -  Passionate about building mobile and web applications
+-  Exploring the fields of Cyber Security and Artificial Intelligence
 -  Love exploring new technologies and creating innovative solutions
 -  Always learning and growing in the tech space
--  Exploring the fields of Cyber Security 
 
 ## Tech Stack
 ### Languages
@@ -35,33 +30,39 @@ A macOS-style interactive developer portfolio showcasing my projects, skills, an
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-00577A?style=for-the-badge&logo=Flask&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-00576A?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-Framework-3776AB?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-Framework-3776AB?style=for-the-badge&logo=Metasploit&logoColor=white)
 
 ## GitHub Stats
+
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cerebralstoic&theme=radical"/>
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=cerebralstoic&color=blue&style=for-the-badge" width="300" height="50" />
+</p>
+<p align="center">
   <img
     src="https://github-readme-stats-api-omega.vercel.app/api/stats?username=cerebralstoic&style=insight&theme=radical&include_all_commits=false"
-    width="350"
-    height="150"
+    height = 400px
+    width=400px
   />
   <img 
     src="https://github-readme-stats-api-omega.vercel.app/api/stats?username=cerebralstoic&style=top-languages&theme=radical"
-    width="350"
-    height="230"
+    height =450px
+    width=450px
     />
 </p>
 
-
-## What I'm Working On
--  Building cross-platform mobile applications with Flutter
--  Developing responsive web applications using React
--  Integrating Firebase for backend services and real-time data
--  Strengthening my foundation in Data Structures and Algorithms
+## 🐍 Contribution Snake
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cerebralstoic/cerebralstoic/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cerebralstoic/cerebralstoic/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cerebralstoic/cerebralstoic/output/github-contribution-grid-snake.svg" />
+</picture>
+</p>
 
 ## Connect With Me
 [![Portfolio](https://img.shields.io/badge/Portfolio-vineetrawat.me-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://vineetrawat.me)
@@ -77,17 +78,12 @@ A macOS-style interactive developer portfolio showcasing my projects, skills, an
 - Data Structures & Algorithms
 - Linux & Bash usage
 
-## Fun Facts
--  I enjoy solving coding challenges and participating in hackathons
--  Mobile development enthusiast with a focus on user experience
--  Always excited to collaborate on innovative projects
--  Believer in clean code and continuous learning
-
-## Current Goals
--  Contributing to open-source projects
--  Building a strong portfolio of mobile and web applications
--  Connecting with fellow developers and tech enthusiasts
--  Excelling in my B.Tech program while gaining practical experience
-
 ---
+
+<details>
+  <summary>🕵️ Don't, click here</summary>
+   Thanks for scrolling this far. Here's a virtual high-five cutie ✋
+  
+    If you're working on something cool or even something broken and confusing - I'd love to hear about it. Feel free to reach out.
+</details>
 
